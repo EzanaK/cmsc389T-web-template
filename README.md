@@ -1,7 +1,6 @@
 # cmsc389T-web-template
 
 ## Custom Changes
-* Changed background color of project description to maroon
 * Added instagram
 
 ## Links
