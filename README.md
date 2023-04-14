@@ -1,4 +1,4 @@
-# cmsc388T-web-template
+# cmsc389T-web-template
 
 ## Custom Changes
 * Changed background color of project description to blue
